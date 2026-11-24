@@ -1,0 +1,133 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "products": "Products",
+        "benefits": "Benefits",
+        "gallery": "Gallery",
+        "contact": "Contact",
+        "toggle": "ಕನ್ನಡ"
+    },
+    "hero": {
+        "badge": "100% Organic · Farmer Trusted",
+        "title_part1": "Premium Organic",
+        "title_part2": "Vermicompost",
+        "subtitle": "Natural Nutrient Power for Healthy Crops",
+        "btn_products": "View Products",
+        "btn_whatsapp": "WhatsApp Us"
+    },
+    "about": {
+        "title": "About Banashree Organics",
+        "p1_strong": "Banashree Organics",
+        "p1_rest": " is a trusted name in organic farming based in Bengaluru, Karnataka. We produce premium-quality vermicompost using eco-friendly processes that support sustainable agriculture.",
+        "p2": "Our compost is rich in essential nutrients and beneficial microorganisms, helping farmers achieve higher yields naturally — without harmful chemicals.",
+        "f1": "Organic farming support",
+        "f2": "Eco-friendly production",
+        "f3": "Trusted by farmers across Karnataka",
+        "f4": "High-quality nutrient-rich compost"
+    },
+    "products": {
+        "title": "Our Products",
+        "subtitle": "Premium organic solutions for healthy, sustainable farming",
+        "p1_name": "Vermicompost",
+        "p1_f1": "Rich in NPK & Micronutrients",
+        "p1_f2": "Improves soil fertility",
+        "p1_f3": "Safe for all crops",
+        "p2_name": "Neem Enriched Vermicompost",
+        "p2_f1": "Natural pest control",
+        "p2_f2": "Enhances soil microbes",
+        "p2_f3": "Improves yield & crop quality",
+        "btn_enquire": "Enquire Now"
+    },
+    "benefits": {
+        "title": "Nutrients & Benefits",
+        "subtitle": "Rich in Essential Nutrients for Sustainable Agriculture",
+        "n1_label": "NPK Content",
+        "n1_desc": "Nitrogen · Phosphorus · Potassium",
+        "n2_label": "Organic Carbon",
+        "n2_desc": "Rich humus that feeds soil life",
+        "n3_label": "Phosphorus & Potassium",
+        "n3_val": "Essential",
+        "n3_desc": "Boosts root strength & immunity",
+        "n4_label": "Calcium & Magnesium",
+        "n4_val": "Enriched",
+        "n4_desc": "Strengthens cell walls & uptake",
+        "n5_label": "Humic & Fulvic Acid",
+        "n5_val": "Present",
+        "n5_desc": "Detoxifies and enhances fertility",
+        "n6_label": "Growth Hormones",
+        "n6_val": "Natural",
+        "n6_desc": "Auxins & Cytokinins for faster growth",
+        "key_benefits": "Key Benefits",
+        "b1": "Strong Roots",
+        "b2": "High Yield",
+        "b3": "Reduces Chemical Fertilizers",
+        "b4": "Improves Soil Structure",
+        "b5": "100% Organic"
+    },
+    "gallery": {
+        "title": "Gallery",
+        "img1": "Vermicompost close-up",
+        "img2": "Earthworms in compost box",
+        "img3": "Farm composting beds",
+        "img4": "Compost pile",
+        "img5": "Compost rows",
+        "img6": "Production facility"
+    },
+    "why_choose_us": {
+        "title": "Why Choose Us",
+        "f1_title": "Eco-Friendly",
+        "f1_desc": "100% natural processes with no chemical additives",
+        "f2_title": "Quality Assured",
+        "f2_desc": "Consistent nutrient-rich compost for best results",
+        "f3_title": "Farmer First",
+        "f3_desc": "Dedicated to helping farmers improve crop yields",
+        "f4_title": "Pan Karnataka Delivery",
+        "f4_desc": "Bulk and retail delivery available across all districts of Karnataka"
+    },
+    "testimonials": {
+        "title": "What Farmers Say",
+        "subtitle": "Trusted by farmers across Karnataka",
+        "r1_text": "Banashree Organics vermicompost has significantly improved my soil quality. The yield has been fantastic this season!",
+        "r1_name": "Ramesh Gowda",
+        "r1_role": "Farmer, Shimoga",
+        "r2_text": "The neem-enriched compost helped reduce pest attacks on my crops naturally. Highly recommended for all organic farmers.",
+        "r2_name": "Kumar",
+        "r2_role": "Organic Farmer, Mandya",
+        "r3_text": "Excellent quality and very consistent. Their team is very supportive and knowledgeable about farm needs.",
+        "r3_name": "Siddappa",
+        "r3_role": "Agriculturist, Hassan"
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Common questions about our vermicompost products",
+        "q1": "What is vermicompost?",
+        "a1": "Vermicompost is organic fertilizer produced through the breakdown of organic matter by earthworms. It's rich in nutrients and highly beneficial for soil.",
+        "q2": "How much should I use for my plants?",
+        "a2": "For potted plants, use 100-200g per pot every 15 days. For agricultural land, 1-2 tons per acre is recommended depending on the crop.",
+        "q3": "Is it safe for all types of plants?",
+        "a3": "Yes, our vermicompost is 100% natural and safe for all plants including vegetables, fruits, flowers, and agricultural crops.",
+        "q4": "Do you deliver across Karnataka?",
+        "a4": "Yes, we arrange bulk delivery across Karnataka. Please contact us with your location and requirement."
+    },
+    "contact": {
+        "title": "Contact Us",
+        "phone": "Phone",
+        "email": "Email",
+        "location": "Location",
+        "loc_text": "Bengaluru, Karnataka",
+        "form_title": "Send Enquiry",
+        "name": "Your Name",
+        "phone_ph": "Phone Number",
+        "message": "Your Message",
+        "btn_send": "Send via WhatsApp",
+        "get_directions": "Get Directions"
+    },
+    "footer": {
+        "tagline": "Growing Naturally",
+        "quick_links": "Quick Links",
+        "contact": "Contact",
+        "copyright": "Copyright © 2026. All rights reserved."
+    },
+    "floating_whatsapp_text": "Hello Banashree Organics, I am interested in your vermicompost"
+}

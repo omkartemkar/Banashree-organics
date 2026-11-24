@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 47 38% 91%;
+    --foreground: 0 0% 20%;
+
+    --card: 47 38% 95%;
+    --card-foreground: 0 0% 20%;
+
+    --popover: 47 38% 95%;
+    --popover-foreground: 0 0% 20%;
+
+    --primary: 125 54% 24%;
+    --primary-foreground: 47 38% 95%;
+
+    --secondary: 125 46% 33%;
+    --secondary-foreground: 47 38% 95%;
+
+    --muted: 47 25% 85%;
+    --muted-foreground: 0 0% 40%;
+
+    --accent: 123 38% 57%;
+    --accent-foreground: 125 54% 12%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --earth: 16 24% 35%;
+    --earth-foreground: 47 38% 95%;
+
+    --border: 125 20% 80%;
+    --input: 125 20% 80%;
+    --ring: 125 54% 24%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 125 54% 24%;
+    --sidebar-foreground: 47 38% 95%;
+    --sidebar-primary: 123 38% 57%;
+    --sidebar-primary-foreground: 47 38% 95%;
+    --sidebar-accent: 125 46% 33%;
+    --sidebar-accent-foreground: 47 38% 95%;
+    --sidebar-border: 125 20% 30%;
+    --sidebar-ring: 123 38% 57%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  /* hero-overlay removed — gradient is applied inline in HeroSection */
+
+  .section-padding {
+    @apply py-16 md:py-24 px-4 md:px-8;
+  }
+
+  .green-gradient {
+    background: linear-gradient(135deg, hsl(125, 54%, 24%), hsl(125, 46%, 33%));
+  }
+}
